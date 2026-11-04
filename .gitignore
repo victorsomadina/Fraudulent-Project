@@ -1,3 +1,4 @@
-.env
 venv
 _pycache_/
+config.bat
+node_modules
